@@ -58,7 +58,13 @@
             <artifactId>testng</artifactId>
             <version>7.8.0</version>
             <scope>test</scope>
+
         </dependency>
+<dependency> 
+<groupld>com.mysql</groupld>
+ <artifactId>mysql-connector-j</ artifactld> 
+ <version>8.0.33</version>
+  </dependency>
     </dependencies>
 
 	<build>
